@@ -1,0 +1,21 @@
+####################################################################################################
+#Automatically Generated File
+#Created Using: Flytre's Custom Item Generator
+#Created: 07/28/2020 12:26
+####################################################################################################
+
+scoreboard players set @a clear 0
+execute unless score lockout stage matches 1..2 unless score red 9ks5rl2xqexr0tqp matches 1.. as @a[team=red] run function flytre:detect/specific/9ks5rl2xqexr0tqp/clear
+execute unless score lockout stage matches 1 unless score yellow 9ks5rl2xqexr0tqp matches 1.. as @a[team=yellow] run function flytre:detect/specific/9ks5rl2xqexr0tqp/clear
+execute unless score lockout stage matches 1 unless score green 9ks5rl2xqexr0tqp matches 1.. as @a[team=green] run function flytre:detect/specific/9ks5rl2xqexr0tqp/clear
+execute unless score lockout stage matches 1 unless score blue 9ks5rl2xqexr0tqp matches 1.. as @a[team=blue] run function flytre:detect/specific/9ks5rl2xqexr0tqp/clear
+execute if score lockout stage matches 1 unless score completed 9ks5rl2xqexr0tqp matches 1.. as @a[team=red] run function flytre:detect/specific/9ks5rl2xqexr0tqp/clear
+execute if score lockout stage matches 1 unless score completed 9ks5rl2xqexr0tqp matches 1.. as @a[team=yellow] run function flytre:detect/specific/9ks5rl2xqexr0tqp/clear
+execute if score lockout stage matches 1 unless score completed 9ks5rl2xqexr0tqp matches 1.. as @a[team=green] run function flytre:detect/specific/9ks5rl2xqexr0tqp/clear
+execute if score lockout stage matches 1 unless score completed 9ks5rl2xqexr0tqp matches 1.. as @a[team=blue] run function flytre:detect/specific/9ks5rl2xqexr0tqp/clear
+execute as @a[scores={clear=1..},team=red] run scoreboard players set red 9ks5rl2xqexr0tqp 1
+execute as @a[scores={clear=1..},team=yellow] run scoreboard players set yellow 9ks5rl2xqexr0tqp 1
+execute as @a[scores={clear=1..},team=green] run scoreboard players set green 9ks5rl2xqexr0tqp 1
+execute as @a[scores={clear=1..},team=blue] run scoreboard players set blue 9ks5rl2xqexr0tqp 1
+execute as @a[scores={clear=1..}] run scoreboard players set completed 9ks5rl2xqexr0tqp 1
+execute as @a[scores={clear=1..}] run function flytre:detect/specific/9ks5rl2xqexr0tqp/gotten

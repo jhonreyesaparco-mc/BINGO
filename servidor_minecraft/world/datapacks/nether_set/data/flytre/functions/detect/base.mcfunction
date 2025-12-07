@@ -1,0 +1,75 @@
+####################################################################################################
+#Automatically Generated File
+#Created Using: Flytre's Custom Item Generator
+#Created: 07/28/2020 12:26
+####################################################################################################
+
+execute if score vuz4mqzlxor25i04 global matches 1.. run function flytre:detect/specific/vuz4mqzlxor25i04/base
+execute if score i7ohjozihx88aj6n global matches 1.. run function flytre:detect/specific/i7ohjozihx88aj6n/base
+execute if score 1xvnhix8wbm0035j global matches 1.. run function flytre:detect/specific/1xvnhix8wbm0035j/base
+execute if score 6k3q69gnxrfb0v93 global matches 1.. run function flytre:detect/specific/6k3q69gnxrfb0v93/base
+execute if score 2cuvlengr5h7572f global matches 1.. run function flytre:detect/specific/2cuvlengr5h7572f/base
+execute if score pra8p6kkd1sqlwn8 global matches 1.. run function flytre:detect/specific/pra8p6kkd1sqlwn8/base
+execute if score 5u1x7t90mkswoqsh global matches 1.. run function flytre:detect/specific/5u1x7t90mkswoqsh/base
+execute if score fxy0xy5hw69r7hoh global matches 1.. run function flytre:detect/specific/fxy0xy5hw69r7hoh/base
+execute if score 7vakthtntp68wnrz global matches 1.. run function flytre:detect/specific/7vakthtntp68wnrz/base
+execute if score quww9mzepfzwd5r6 global matches 1.. run function flytre:detect/specific/quww9mzepfzwd5r6/base
+execute if score uor3mr3b9b0ji37k global matches 1.. run function flytre:detect/specific/uor3mr3b9b0ji37k/base
+execute if score 6hr4awy0xxo663zs global matches 1.. run function flytre:detect/specific/6hr4awy0xxo663zs/base
+execute if score r6mqc2rx7jb8mig4 global matches 1.. run function flytre:detect/specific/r6mqc2rx7jb8mig4/base
+execute if score erl7yc0s4dh40y6t global matches 1.. run function flytre:detect/specific/erl7yc0s4dh40y6t/base
+execute if score rk2xpw9vlqf3f53l global matches 1.. run function flytre:detect/specific/rk2xpw9vlqf3f53l/base
+execute if score eyqvpqh1314sgulh global matches 1.. run function flytre:detect/specific/eyqvpqh1314sgulh/base
+execute if score t9tlflnlm6qzyt85 global matches 1.. run function flytre:detect/specific/t9tlflnlm6qzyt85/base
+execute if score jwyzzfc0lgt65ueu global matches 1.. run function flytre:detect/specific/jwyzzfc0lgt65ueu/base
+execute if score ri3govm29ppml7r5 global matches 1.. run function flytre:detect/specific/ri3govm29ppml7r5/base
+execute if score a09xov9xch2c3ifp global matches 1.. run function flytre:detect/specific/a09xov9xch2c3ifp/base
+execute if score xk2iavgfzrjd7hv6 global matches 1.. run function flytre:detect/specific/xk2iavgfzrjd7hv6/base
+execute if score x2k74cy9txcuu7ll global matches 1.. run function flytre:detect/specific/x2k74cy9txcuu7ll/base
+execute if score hpbi2q9v2urlu2pp global matches 1.. run function flytre:detect/specific/hpbi2q9v2urlu2pp/base
+execute if score e1oefkw13e4ittoc global matches 1.. run function flytre:detect/specific/e1oefkw13e4ittoc/base
+execute if score gct390xvwxggtl6h global matches 1.. run function flytre:detect/specific/gct390xvwxggtl6h/base
+execute if score e7thydjpmef9tyx5 global matches 1.. run function flytre:detect/specific/e7thydjpmef9tyx5/base
+execute if score rj766w6k7yhlszqp global matches 1.. run function flytre:detect/specific/rj766w6k7yhlszqp/base
+execute if score qnk20jy6etu37fnl global matches 1.. run function flytre:detect/specific/qnk20jy6etu37fnl/base
+execute if score fxgolkotmo13ilft global matches 1.. run function flytre:detect/specific/fxgolkotmo13ilft/base
+execute if score u2bu9c6z6edci3e8 global matches 1.. run function flytre:detect/specific/u2bu9c6z6edci3e8/base
+execute if score brs5qcmegjn3ydgn global matches 1.. run function flytre:detect/specific/brs5qcmegjn3ydgn/base
+execute if score drf1ijy7w5je7gcn global matches 1.. run function flytre:detect/specific/drf1ijy7w5je7gcn/base
+execute if score rdhtbphrgpe4uveu global matches 1.. run function flytre:detect/specific/rdhtbphrgpe4uveu/base
+execute if score r3iko4y5pzhmko46 global matches 1.. run function flytre:detect/specific/r3iko4y5pzhmko46/base
+execute if score k3197k23cwnpl0vf global matches 1.. run function flytre:detect/specific/k3197k23cwnpl0vf/base
+execute if score 0jz1wapi9wzjx49y global matches 1.. run function flytre:detect/specific/0jz1wapi9wzjx49y/base
+execute if score oje6t1yhaomd2u7r global matches 1.. run function flytre:detect/specific/oje6t1yhaomd2u7r/base
+execute if score 7rm607gvb2sa9fva global matches 1.. run function flytre:detect/specific/7rm607gvb2sa9fva/base
+execute if score o82h3563ydgvt33d global matches 1.. run function flytre:detect/specific/o82h3563ydgvt33d/base
+execute if score la6f48zayb0ac6hg global matches 1.. run function flytre:detect/specific/la6f48zayb0ac6hg/base
+execute if score g4cgkbqb6lkvi4sg global matches 1.. run function flytre:detect/specific/g4cgkbqb6lkvi4sg/base
+execute if score a07q9gw13y9yos3o global matches 1.. run function flytre:detect/specific/a07q9gw13y9yos3o/base
+execute if score 10ad305s1nrahekt global matches 1.. run function flytre:detect/specific/10ad305s1nrahekt/base
+execute if score drj69u7yl3of24mu global matches 1.. run function flytre:detect/specific/drj69u7yl3of24mu/base
+execute if score qzshcgy6mqxuuiqn global matches 1.. run function flytre:detect/specific/qzshcgy6mqxuuiqn/base
+execute if score b0rxr0nhvoo3ss8b global matches 1.. run function flytre:detect/specific/b0rxr0nhvoo3ss8b/base
+execute if score c188r5tprzxikul5 global matches 1.. run function flytre:detect/specific/c188r5tprzxikul5/base
+execute if score imr86kfseygjat2i global matches 1.. run function flytre:detect/specific/imr86kfseygjat2i/base
+execute if score cs5pfu30cpvepgya global matches 1.. run function flytre:detect/specific/cs5pfu30cpvepgya/base
+execute if score cn52ym9c4mir9bf6 global matches 1.. run function flytre:detect/specific/cn52ym9c4mir9bf6/base
+execute if score x398zhga5zf7n3uz global matches 1.. run function flytre:detect/specific/x398zhga5zf7n3uz/base
+execute if score chbptqar0se2l8i3 global matches 1.. run function flytre:detect/specific/chbptqar0se2l8i3/base
+execute if score 4nu2sgwwkjt1ly5a global matches 1.. run function flytre:detect/specific/4nu2sgwwkjt1ly5a/base
+execute if score bs4z3xl4vj410e1y global matches 1.. run function flytre:detect/specific/bs4z3xl4vj410e1y/base
+execute if score 6qlzgywpyb7eczah global matches 1.. run function flytre:detect/specific/6qlzgywpyb7eczah/base
+execute if score lzya7mn1addr6hud global matches 1.. run function flytre:detect/specific/lzya7mn1addr6hud/base
+execute if score 4jc1qiwfi16q1ius global matches 1.. run function flytre:detect/specific/4jc1qiwfi16q1ius/base
+execute if score edo1f7m5h0phtg1v global matches 1.. run function flytre:detect/specific/edo1f7m5h0phtg1v/base
+execute if score 6k9go28oqltp5dcg global matches 1.. run function flytre:detect/specific/6k9go28oqltp5dcg/base
+execute if score igm47bztbjhwxgiv global matches 1.. run function flytre:detect/specific/igm47bztbjhwxgiv/base
+execute if score 49r2ghw3vl1rwl4e global matches 1.. run function flytre:detect/specific/49r2ghw3vl1rwl4e/base
+execute if score b99ucreg92qrd8y0 global matches 1.. run function flytre:detect/specific/b99ucreg92qrd8y0/base
+execute if score 9winfdla2qhyuz7d global matches 1.. run function flytre:detect/specific/9winfdla2qhyuz7d/base
+execute if score bzorma7qtwer6aj8 global matches 1.. run function flytre:detect/specific/bzorma7qtwer6aj8/base
+execute if score 4czi478y02f4s2nd global matches 1.. run function flytre:detect/specific/4czi478y02f4s2nd/base
+execute if score 3cjppvyxbweq023i global matches 1.. run function flytre:detect/specific/3cjppvyxbweq023i/base
+execute if score v57rnwgm45afmv76 global matches 1.. run function flytre:detect/specific/v57rnwgm45afmv76/base
+execute if score e2k188okyxohs41u global matches 1.. run function flytre:detect/specific/e2k188okyxohs41u/base
+execute if score 7w00nio77t2d4jct global matches 1.. run function flytre:detect/specific/7w00nio77t2d4jct/base
